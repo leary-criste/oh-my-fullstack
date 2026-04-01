@@ -10,4 +10,4 @@ export const {
   [actionTypes.INCREMENT]: defaultAction,
   [actionTypes.DECREMENT]: defaultAction,
   [actionTypes.SET_COUNTER]: defaultAction,
-});
+});
