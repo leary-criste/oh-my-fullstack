@@ -10,4 +10,4 @@ export const {
   [actionTypes.GET_DATA]: defaultAction,
   [actionTypes.SET_DATA]: defaultAction,
   [actionTypes.SET_ERROR]: defaultAction,
-});
+});
