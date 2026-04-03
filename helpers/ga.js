@@ -19,4 +19,4 @@ export const event = ({
 export default {
   pageview,
   event,
-};
+};
