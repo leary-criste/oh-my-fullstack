@@ -6,4 +6,4 @@ import api from './api';
 export default combineEpics(
   counter,
   api,
-);
+);
