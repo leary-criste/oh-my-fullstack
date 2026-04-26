@@ -13,4 +13,4 @@ export const decrement = (action$, state$) => action$.pipe(
   map(() => setCounter(state$.value.getIn(['counter', 'count']) - 1)),
 );
 
-export default combineEpics(increment, decrement);
+export default combineEpics(increment, decrement);
