@@ -16,4 +16,4 @@ export const status = (req, res) => res.json({ name, description, version });
  */
 export default {
   status,
-};
+};
