@@ -8,4 +8,4 @@ const defaultState = Map({
 
 export default handleActions({
   [actionTypes.SET_COUNTER]: (state, { payload }) => state.set('count', payload),
-}, defaultState);
+}, defaultState);
