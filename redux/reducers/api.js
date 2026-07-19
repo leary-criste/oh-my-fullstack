@@ -19,4 +19,4 @@ export default handleActions({
     .set('isLoading', false)
     .set('data', null)
     .set('error', fromJS(payload)),
-}, defaultState);
+}, defaultState);
