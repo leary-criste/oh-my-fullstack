@@ -61,4 +61,4 @@ export default {
   handler,
   notFound,
   format,
-};
+};
