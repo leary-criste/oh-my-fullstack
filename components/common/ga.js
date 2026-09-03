@@ -12,4 +12,4 @@ const GA = () => (
   </Fragment>
 );
 
-export default GA;
+export default GA;
