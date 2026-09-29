@@ -53,4 +53,4 @@ const mapStateToProps = state => ({
   api: state.get('api'),
 });
 
-export default connect(mapStateToProps, { getData })(ApiStatus);
+export default connect(mapStateToProps, { getData })(ApiStatus);
