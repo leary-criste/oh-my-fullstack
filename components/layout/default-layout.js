@@ -20,4 +20,4 @@ DefaultLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
-export default DefaultLayout;
+export default DefaultLayout;
