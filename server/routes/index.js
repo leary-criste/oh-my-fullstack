@@ -22,4 +22,4 @@ router.use(
   errors.handler,
 );
 
-export default router;
+export default router;
