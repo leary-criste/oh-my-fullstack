@@ -13,4 +13,4 @@ export const getApiData = action$ => action$.pipe(
   )),
 );
 
-export default combineEpics(getApiData);
+export default combineEpics(getApiData);
